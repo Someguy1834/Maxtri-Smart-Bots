@@ -1,0 +1,12 @@
+{
+    "name": "Test bot",
+    "token": "",
+    "urls": {
+        "ffa": "wss://maxtri-game-server.herokuapp.com/websocket",
+        "tdm": "wss://maxtri-game-server2.herokuapp.com/websocket",
+        "tkr": "wss://maxtri-game-server3.herokuapp.com/websocket"
+    },
+    "amount": "20",
+    "origin": "https://maxtri.netlify.app",
+    "wantedTeam": "1"
+}
